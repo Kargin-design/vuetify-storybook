@@ -1,7 +1,7 @@
 export default {
   title: "Vuetify/VBtn",
   args: {
-    label: "Button",
+    label: "Button (deployed)",
     color: "primary",
     disabled: false,
   },
